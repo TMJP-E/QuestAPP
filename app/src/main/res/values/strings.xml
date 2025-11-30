@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">QuestAPP</string>
+
+    <string name="greeting">Tu bienestar es importante. Responde el siguiente test para descubrir señales de violencia psicológica.</string>
+    <string name="introduction">A continuación, encontrarás un cuestionario con 21 preguntas divididas en 3 secciones. Lee con calma cada enunciado y selecciona la opción que mejor describa tu experiencia o tu situación actual. Al finalizar visualizarás tu puntaje y algunas recomendaciones.</string>
+
+    <string name="s1q1">Siento que debo cambiar mi forma de ser o actuar para que mi pareja/ser querido no se enoje o no me castigue con su silencio o indiferencia.</string>
+    <string name="s1q2">Mi pareja/ser querido me hace sentir culpable por sus problemas, mal humor o fracasos personales.</string>
+    <string name="s1q3">Cuando intento hablar de nuestros problemas, mi pareja/ser querido minimiza mis sentimientos (ej. "estás exagerando", "eres demasiado sensible") o me acusa de ser el problema.</string>
+    <string name="s1q4">Si expreso mi desacuerdo o pongo un límite, mi pareja/ser querido me amenaza con terminar la relación o con hacerse daño para obligarme a ceder.</string>
+    <string name="s1q5">Mi pareja/ser querido utiliza el afecto o la aprobación como un premio que me da o me quita dependiendo de si hago lo que quiere.</string>
+    <string name="s1q6">He dejado de hacer cosas importantes para mí (como ver a mi familia/amigos, estudiar, o trabajar) por miedo a la reacción negativa o al enfado de mi pareja/ser querido.</string>
+    <string name="s1q7">Siento que debo pedir permiso o justificar cada gasto, salida o decisión personal que tomo, incluso si me afecta solo a mí.</string>
+
+    <string name="s2q1">Hay personas en mi entorno que cuestionan lo que recuerdo o siento, al grado de hacerme dudar de mi propia percepción.</string>
+    <string name="s2q2">Cuando comparto cómo me siento, alguien cercano me hace pensar que estoy exagerando o interpretando todo de forma equivocada.</string>
+    <string name="s2q3">En discusiones o desacuerdos, termino sintiéndome responsable de algo que solo intentaba expresar y que realmente me afectó.</string>
+    <string name="s2q4">Algunas personas cambian su versión de los hechos o del contexto, lo que me hace sentir confundido sobre lo que realmente sucedió.</string>
+    <string name="s2q5">Con frecuencia me hacen sentir que soy la causa del malestar, problemas o frustraciones de otras personas, aunque no tenga relación con ello.</string>
+    <string name="s2q6">Siento que si no actúo como ciertos individuos esperan, me hacen ver que estoy fallando o siendo inconsiderado.</string>
+    <string name="s2q7">En ocasiones percibo que alguien cercano acomoda la información o las circunstancias para influir en mis decisiones hacia lo que a esa persona le conviene.</string>
+
+    <string name="s3q1">Algunas personas justifican controlar o supervisar mis decisiones diciendo que solo quieren “cuidarme” o “protegerme”.</string>
+    <string name="s3q2">Siento la necesidad de explicar o justificar todo lo que hago para evitar que alguien piense que estoy actuando con mala intención.</string>
+    <string name="s3q3">A veces desacreditan o critican a personas cercanas a mí bajo el argumento de que “no me hacen bien” o “no son buena influencia”.</string>
+    <string name="s3q4">Con frecuencia me hacen sentir que no podría manejar ciertas situaciones sin su orientación, aprobación o supervisión.</string>
+    <string name="s3q5">Cuando busco tiempo para mí, hay quienes lo interpretan como que estoy siendo distante o egoísta sin motivo.</string>
+    <string name="s3q6">Algunas personas opinan o intervienen en mis hábitos personales —como mi forma de organizarme, vestirme o relacionarme— diciendo que es por preocupación genuina.</string>
+    <string name="s3q7">En ocasiones intentan convencerme de que mis decisiones independientes son imprudentes o peligrosas, llevándome a depender más de su criterio.</string>
+
+    <string name="instructions">Instrucciones</string>
+    <string name="start">Comenzar</string>
+
+    <string name="likert1">Nunca</string>
+    <string name="likert2">Rara vez</string>
+    <string name="likert3">A veces</string>
+    <string name="likert4">Frecuentemente</string>
+    <string name="likert5">Siempre</string>
+
+    <string name="previous">Anterior</string>
+    <string name="next">Siguiente</string>
+
+    <string name="section1">Acoso Afectivo</string>
+    <string name="section2">Manipulación Mental</string>
+    <string name="section3">Agresión Insospechada</string>
+</resources>
