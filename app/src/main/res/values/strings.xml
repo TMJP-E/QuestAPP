@@ -43,4 +43,28 @@
     <string name="section1">Acoso Afectivo</string>
     <string name="section2">Manipulación Mental</string>
     <string name="section3">Agresión Insospechada</string>
+
+    <string name="conclusion_title">¡LO LOGRASTE!</string>
+    <string name="conclusion_content">Has llegado al final de este cuestionario. Ahora te podemos brindar un resultado, con el que esperamos facilitar la detección de violencia psicológica, para poder tomar acción.</string>
+    <string name="conclusion_disclaimer">Recuerda que el resultado que te ofrecemos es una valoración a grandes rasgos, esto no reemplaza un diagnostico profesional, ni se debe tomar como uno.</string>
+
+    <string name="result_button">Ir a Resultados</string>
+
+    <string name="result_title">Resultados</string>
+    <string name="result_score">Tu puntuación general</string>
+    <string name="result_category">Tu puntuacion por categoria</string>
+
+    <string name="result_label_1">Riesgo bajo</string>
+    <string name="result_label_2">Riesgo moderado</string>
+    <string name="result_label_3">Riesgo latente</string>
+    <string name="result_label_4">Riesgo alto</string>
+    <string name="result_label_5">ALERTA</string>
+
+    <string name="result_digits">%d/35</string>
+
+    <string name="result1">Tu puntaje no refleja señales alarmantes, aunque siempre conviene seguir cuidando tu estabilidad emocional y tu espacio personal, pues prevenir también es escucharte antes de que algo pase.</string>
+    <string name="result2">Hay tensiones emocionales que merecen atención, por lo que es bueno empezar a marcar límites pequeños y hablar lo que incomoda, ya que tu autonomía no es ataque, es equilibrio.</string>
+    <string name="result3">Existen señales sutiles de control emocional o culpa inducida, y aunque no sean obvias al instante, pueden inclinar tu criterio con el tiempo, por lo que hablarlo adecuadamente te devuelve claridad.</string>
+    <string name="result4">Las dinámicas detectadas ya son consistentes, lo que puede afectar tu confianza y decisiones si sigues sosteniéndolo solo, así que pedir apoyo externo es fortalecerte, no desaparecer tu voz.</string>
+    <string name="result5">Se detectó un riesgo emocional grave de violencia psicológica. Si te sientes en riesgo, busca acompañamiento psicológico y apoyo de tus seres queridos</string>
 </resources>

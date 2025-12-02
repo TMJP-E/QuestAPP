@@ -18,6 +18,8 @@ val White100CG = Color(0xFFF7E6FF)
 val BlackT100 = Color(0xFF454444)
 val BlackT90 = Color(0xFF626262)
 
+val BlackT70 = Color(0xB3454444)
+
 val Gray60 = Color(0x99232323)
 
 val Rose00 = Color(0x00906BFD)
